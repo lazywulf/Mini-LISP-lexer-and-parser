@@ -165,3 +165,4 @@ prev_ver/
 parser.out
 parsetab.py
 test.py
+.gitignore
